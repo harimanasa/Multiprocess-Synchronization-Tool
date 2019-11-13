@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <stdlib.h>
-#include "CircularQueue.hpp"
+#include "CircularQueue.h"
 
 using namespace std;
 
