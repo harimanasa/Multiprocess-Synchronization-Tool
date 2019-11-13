@@ -27,3 +27,6 @@ Can only consume and delete from the buffer.
 Cannot add data into buffer. 
 
 Producer and Consumer must be synchronized in order to avoid situations like deadlocks or data being lost. 
+
+
+![Picture 1](https://user-images.githubusercontent.com/5762548/68733871-f6a83300-058c-11ea-9fee-ac128e25ffd3.png)
